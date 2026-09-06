@@ -164,7 +164,7 @@
     "babel-plugin-module-resolver": "5.0.2",
     "babel-plugin-shopware-vite-meta-glob": "0.0.5",
     "blob-polyfill": "7.0.20220408",
-    "browserslist": "4.27.0",
+    "browserslist": "4.28.9",
     "chai-shallow-deep-equal": "1.4.6",
     "cross-env": "7.0.3",
     "dir-compare": "4.2.0",
